@@ -7,6 +7,7 @@ namespace BulkyBook.Models
 {
     public class Category : BaseClass
     {
+//data annotation
         [Display(Name="Category Name")]
         [Required]
         [MaxLength(80)]

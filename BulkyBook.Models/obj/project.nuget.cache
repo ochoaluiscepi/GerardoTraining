@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WdVWtttSdHjv6Ewi1DmurzF1Q+gkEF9cr8kJsx3aoRzEPsc8zMfxa7h5h0hr3YYejhBRBzdZIdrEFru5G5BPgQ==",
+  "dgSpecHash": "G5XlmBr+kKWan6GGDJKUrTXX/CZObtf+9fJKwWUFldIK7rTAQEledcsR7Jda0qAlSfDsEKjoQkL/PXporsUzaA==",
   "success": true,
-  "projectFilePath": "D:\\MiRepoGithub\\GerardoTraining\\BulkyBook.Models\\BulkyBook.Models.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ochoa\\OneDrive\\Documentos\\GerardoTraining\\BulkyBook.Models\\BulkyBook.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ochoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ochoa\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ochoa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

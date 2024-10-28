@@ -21,7 +21,3 @@ namespace BulkyBook.Models
 
     }
 }
-
-
-
-

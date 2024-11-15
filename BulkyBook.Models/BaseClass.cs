@@ -18,6 +18,5 @@ namespace BulkyBook.Models
         public long InsertedBy { get; set; }
         public DateTime Updated { get; set; }
         public long UpdatedBy { get; set; }
-
     }
 }

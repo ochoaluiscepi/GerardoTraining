@@ -9,11 +9,3 @@ namespace BulkyBook.Models.viewModels
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
-
-
-
-
-
-
-
-

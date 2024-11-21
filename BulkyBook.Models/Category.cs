@@ -12,7 +12,5 @@ namespace BulkyBook.Models
         [Required]
         [MaxLength(80)]
         public string Name { get; set; }
-
-
     }
 }

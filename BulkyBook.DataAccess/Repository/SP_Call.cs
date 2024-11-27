@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BulkyBook.DataAccess.Repository
 {
+
     public class SP_Call : ISP_Call
     {
         private readonly ApplicationDbContext _db;

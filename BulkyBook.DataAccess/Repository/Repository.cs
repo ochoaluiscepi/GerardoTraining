@@ -75,5 +75,7 @@ namespace BulkyBook.DataAccess.Repository
         {
             dbSet.RemoveRange(entity);
         }
+
+
     }
 }

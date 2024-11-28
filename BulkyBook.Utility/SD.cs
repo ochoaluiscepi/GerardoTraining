@@ -8,7 +8,3 @@ namespace BulkyBook.Utility
     {
     }
 }
-
-
-
-

@@ -14,7 +14,3 @@ namespace BulkyBook.Models
         public string Name { get; set; }
     }
 }
-
-
-
-

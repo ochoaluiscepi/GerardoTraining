@@ -20,5 +20,3 @@ namespace BulkyBook.Models
         public long UpdatedBy { get; set; }
     }
 }
-
-
